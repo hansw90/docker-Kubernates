@@ -50,8 +50,8 @@
 
 위의 그림처럼 가상화 기술은 Host OS, Guest OS 두개의 커널을 지니며, Container는 한개의 커널을 지난다. 이점은 애플리 케이션의 오버헤드와 큰 연광성이 있다.
 
-- [VM과 Container의 비교](https://medium.com/@lhs6395/container%EC%99%80-vm%EC%9D%98-%EB%B9%84%EA%B5%90-84f6a8b7cd4c)
-
+[VM과 Container의 비교](https://medium.com/@lhs6395/container%EC%99%80-vm%EC%9D%98-%EB%B9%84%EA%B5%90-84f6a8b7cd4c)
+위의 medium에선 이러한 내용을 자세히 다루고 있으니 확인해도 좋을것 같다.
 
 
 
