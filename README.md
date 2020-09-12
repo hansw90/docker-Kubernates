@@ -45,7 +45,7 @@
 
 커널을 격리함으로써 기존의 서로 다른 플랫폼에 대한 제약을 해소할 수 있으며, 리소스 관리르 보다 더 효율적으로 사용할 수 있게 되었다.
 
-https://blog.netapp.com/wp-content/uploads/2016/03/Screen-Shot-2018-03-20-at-9.24.09-AM-935x500.png
+![](https://blog.netapp.com/wp-content/uploads/2016/03/Screen-Shot-2018-03-20-at-9.24.09-AM-935x500.png)
 (https://blog.netapp.com/)
 
 위의 그림처럼 가상화 기술은 Host OS, Guest OS 두개의 커널을 지니며, Container는 한개의 커널을 지난다. 이점은 애플리 케이션의 오버헤드와 큰 연광성이 있다.
